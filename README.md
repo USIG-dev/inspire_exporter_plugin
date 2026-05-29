@@ -19,6 +19,5 @@ Para conformidade semântica, preencha na camada QGIS as propriedades personaliz
 - mig/resource_locator_function: download, information, search ou order.
 - inspire/access_constraints, inspire/use_constraints: códigos ISO como other restrictions,copyright, license.
 - inspire/conditions: termos de acesso e uso.
-- inspire/conformity_pass: true ou false quando a conformidade com a especificação INSPIRE foi avaliada.
 
 Quando valores obrigatórios dependem do conhecimento do produtor e não estão na camada, o plugin cria INSPIRE_WARNINGS.txt na pasta de exportação.
